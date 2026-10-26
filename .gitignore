@@ -44,3 +44,6 @@ build/
 # Результаты и отчеты Allure
 allure-results/
 allure-report/
+.allure/
+allure/
+allure-*/
