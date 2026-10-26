@@ -41,3 +41,6 @@ build/
 *.log
 *.tmp
 *.bak
+# Результаты и отчеты Allure
+allure-results/
+allure-report/
